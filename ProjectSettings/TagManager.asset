@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
+  - PlayerModel
+  - Enemy
+  - Waypoint
+  - Interactor
+  - NPC
+  - InputPlane
+  - DeathPlane
   layers:
   - Default
   - TransparentFX
@@ -11,14 +19,14 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Item
+  - Enemy
+  - Player
+  - Interact
+  - InputPlane
+  - Projectile
+  - DeathPlane
   - 
   - 
   - 

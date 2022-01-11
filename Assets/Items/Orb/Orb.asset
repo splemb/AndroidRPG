@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ef019f1bc629041ae5ede09bfafaea, type: 3}
+  m_Name: Orb
+  m_EditorClassIdentifier: 
+  itemType: 3
+  itemPrefab: {fileID: 7237188124974354077, guid: 1e62f996c89f78747bb008bf46f30973, type: 3}
+  icon: {fileID: 21300000, guid: f55143af87f35ea4ea4615cd9960bbbf, type: 3}
+  itemName: Wizard's Orb
+  description: Have you tried pondering it?
+  maxStackableQuantity: 10

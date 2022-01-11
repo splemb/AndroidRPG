@@ -12,4 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6fca1fd1eed0e664fbe86400ecfbe19b, type: 3}
   m_Name: Backpack
   m_EditorClassIdentifier: 
-  itemSlots: []
+  maxSlots: 10
+  itemSlots:
+  - itemObject: {fileID: 11400000, guid: ca43a6b4ebbf8a243b45eb0f0ead3f22, type: 2}
+    stackQuantity: 4
+  - itemObject: {fileID: 11400000, guid: 7734631ee4b9a1f4d858e704347bbd7d, type: 2}
+    stackQuantity: 1
+  weapon:
+    itemObject: {fileID: 11400000, guid: 70e599c3b6dd35c4db7100b7ec1d5526, type: 2}
+    stackQuantity: 0
+  armour:
+    itemObject: {fileID: 0}
+    stackQuantity: 0
